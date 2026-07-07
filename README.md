@@ -31,8 +31,8 @@ ai-ml-journey/
 
 | Task | Topic | Status |
 |------|-------|--------|
-| Task 01 | Syntax & First Program | ⬜ |
-| Task 02 | Variables & Data Types | ⬜ |
+| Task 01 | Syntax & First Program | DONE |
+| Task 02 | Variables & Data Types | DONE |
 | Task 03 | String Operations | ⬜ |
 | Task 04 | Numbers & Math | ⬜ |
 | Task 05 | Lists | ⬜ |
